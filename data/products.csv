@@ -1,0 +1,21 @@
+product_id,product_name,category,price
+PROD001,Product 1,Home,406.11
+PROD002,Product 2,Clothing,159.26
+PROD003,Product 3,Home,57.86
+PROD004,Product 4,Beauty,345.27
+PROD005,Product 5,Home,225.67
+PROD006,Product 6,Beauty,69.8
+PROD007,Product 7,Beauty,252.64
+PROD008,Product 8,Electronics,26.85
+PROD009,Product 9,Home,455.57
+PROD010,Product 10,Electronics,136.8
+PROD011,Product 11,Home,334.64
+PROD012,Product 12,Home,162.74
+PROD013,Product 13,Electronics,264.83
+PROD014,Product 14,Electronics,277.89
+PROD015,Product 15,Home,100.58
+PROD016,Product 16,Clothing,485.1
+PROD017,Product 17,Beauty,389.82
+PROD018,Product 18,Electronics,470.35
+PROD019,Product 19,Beauty,448.47
+PROD020,Product 20,Clothing,302.97

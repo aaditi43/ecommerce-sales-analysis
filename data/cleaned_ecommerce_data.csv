@@ -1,0 +1,239 @@
+order_id,product_id,quantity,unit_price,product_name,category,order_date,customer_name,region,amount,payment_method
+ORD001,PROD012,1,162.74,Product 12,Home,2025-01-13,Customer 48,East,481.26,Credit Card
+ORD001,PROD002,2,159.26,Product 2,Clothing,2025-01-13,Customer 48,East,481.26,Credit Card
+ORD002,PROD013,2,264.83,Product 13,Electronics,2025-05-28,Customer 15,West,2760.45,PayPal
+ORD002,PROD016,1,485.1,Product 16,Clothing,2025-05-28,Customer 15,West,2760.45,PayPal
+ORD002,PROD011,1,334.64,Product 11,Home,2025-05-28,Customer 15,West,2760.45,PayPal
+ORD002,PROD018,3,470.35,Product 18,Electronics,2025-05-28,Customer 15,West,2760.45,PayPal
+ORD003,PROD008,1,26.85,Product 8,Electronics,2025-06-19,Customer 8,North,858.25,Credit Card
+ORD003,PROD015,3,100.58,Product 15,Home,2025-06-19,Customer 8,North,858.25,Credit Card
+ORD003,PROD013,2,264.83,Product 13,Electronics,2025-06-19,Customer 8,North,858.25,Credit Card
+ORD004,PROD013,3,264.83,Product 13,Electronics,2025-04-16,Customer 14,East,2964.6,Bank Transfer
+ORD004,PROD016,2,485.1,Product 16,Clothing,2025-04-16,Customer 14,East,2964.6,Bank Transfer
+ORD004,PROD020,1,302.97,Product 20,Clothing,2025-04-16,Customer 14,East,2964.6,Bank Transfer
+ORD004,PROD019,2,448.47,Product 19,Beauty,2025-04-16,Customer 14,East,2964.6,Bank Transfer
+ORD005,PROD012,1,162.74,Product 12,Home,2025-04-24,Customer 23,South,839.75,PayPal
+ORD005,PROD005,3,225.67,Product 5,Home,2025-04-24,Customer 23,South,839.75,PayPal
+ORD006,PROD008,3,26.85,Product 8,Electronics,2025-04-29,Customer 40,East,1322.99,Bank Transfer
+ORD006,PROD015,3,100.58,Product 15,Home,2025-04-29,Customer 40,East,1322.99,Bank Transfer
+ORD006,PROD018,2,470.35,Product 18,Electronics,2025-04-29,Customer 40,East,1322.99,Bank Transfer
+ORD007,PROD010,2,136.8,Product 10,Electronics,2025-05-21,Customer 21,South,1675.07,PayPal
+ORD007,PROD020,1,302.97,Product 20,Clothing,2025-05-21,Customer 21,South,1675.07,PayPal
+ORD007,PROD013,1,264.83,Product 13,Electronics,2025-05-21,Customer 21,South,1675.07,PayPal
+ORD007,PROD014,3,277.89,Product 14,Electronics,2025-05-21,Customer 21,South,1675.07,PayPal
+ORD008,PROD006,1,69.8,Product 6,Beauty,2025-05-30,Customer 16,North,630.69,Credit Card
+ORD008,PROD002,1,159.26,Product 2,Clothing,2025-05-30,Customer 16,North,630.69,Credit Card
+ORD008,PROD013,1,264.83,Product 13,Electronics,2025-05-30,Customer 16,North,630.69,Credit Card
+ORD008,PROD010,1,136.8,Product 10,Electronics,2025-05-30,Customer 16,North,630.69,Credit Card
+ORD009,PROD016,3,485.1,Product 16,Clothing,2025-01-03,Customer 45,West,1780.78,Bank Transfer
+ORD009,PROD012,2,162.74,Product 12,Home,2025-01-03,Customer 45,West,1780.78,Bank Transfer
+ORD010,PROD011,2,334.64,Product 11,Home,2025-02-06,Customer 18,West,669.28,Bank Transfer
+ORD011,PROD009,3,455.57,Product 9,Home,2025-06-03,Customer 47,West,3750.8,PayPal
+ORD011,PROD019,2,448.47,Product 19,Beauty,2025-06-03,Customer 47,West,3750.8,PayPal
+ORD011,PROD004,3,345.27,Product 4,Beauty,2025-06-03,Customer 47,West,3750.8,PayPal
+ORD011,PROD005,2,225.67,Product 5,Home,2025-06-03,Customer 47,West,3750.8,PayPal
+ORD012,PROD016,3,485.1,Product 16,Clothing,2025-01-25,Customer 24,West,1455.3,Bank Transfer
+ORD013,PROD005,3,225.67,Product 5,Home,2025-03-09,Customer 26,South,677.01,PayPal
+ORD014,PROD003,3,57.86,Product 3,Home,2025-06-17,Customer 25,West,888.62,PayPal
+ORD014,PROD014,2,277.89,Product 14,Electronics,2025-06-17,Customer 25,West,888.62,PayPal
+ORD014,PROD002,1,159.26,Product 2,Clothing,2025-06-17,Customer 25,West,888.62,PayPal
+ORD015,PROD004,2,345.27,Product 4,Beauty,2025-06-18,Customer 45,West,1346.9,PayPal
+ORD015,PROD015,1,100.58,Product 15,Home,2025-06-18,Customer 45,West,1346.9,PayPal
+ORD015,PROD014,2,277.89,Product 14,Electronics,2025-06-18,Customer 45,West,1346.9,PayPal
+ORD016,PROD019,3,448.47,Product 19,Beauty,2025-06-02,Customer 41,East,1345.41,PayPal
+ORD017,PROD006,3,69.8,Product 6,Beauty,2025-05-01,Customer 29,West,714.03,Credit Card
+ORD017,PROD008,1,26.85,Product 8,Electronics,2025-05-01,Customer 29,West,714.03,Credit Card
+ORD017,PROD002,3,159.26,Product 2,Clothing,2025-05-01,Customer 29,West,714.03,Credit Card
+ORD018,PROD011,3,334.64,Product 11,Home,2025-04-27,Customer 15,West,1003.92,PayPal
+ORD019,PROD006,3,69.8,Product 6,Beauty,2025-02-16,Customer 45,West,1876.23,Bank Transfer
+ORD019,PROD007,3,252.64,Product 7,Beauty,2025-02-16,Customer 45,West,1876.23,Bank Transfer
+ORD019,PROD020,3,302.97,Product 20,Clothing,2025-02-16,Customer 45,West,1876.23,Bank Transfer
+ORD020,PROD013,1,264.83,Product 13,Electronics,2025-01-22,Customer 1,East,404.43,Credit Card
+ORD020,PROD006,2,69.8,Product 6,Beauty,2025-01-22,Customer 1,East,404.43,Credit Card
+ORD021,PROD015,3,100.58,Product 15,Home,2025-06-19,Customer 25,West,1210.65,Bank Transfer
+ORD021,PROD020,3,302.97,Product 20,Clothing,2025-06-19,Customer 25,West,1210.65,Bank Transfer
+ORD022,PROD002,3,159.26,Product 2,Clothing,2025-02-02,Customer 7,North,477.78,Credit Card
+ORD023,PROD013,2,264.83,Product 13,Electronics,2025-05-06,Customer 9,East,991.89,PayPal
+ORD023,PROD020,1,302.97,Product 20,Clothing,2025-05-06,Customer 9,East,991.89,PayPal
+ORD023,PROD002,1,159.26,Product 2,Clothing,2025-05-06,Customer 9,East,991.89,PayPal
+ORD024,PROD017,2,389.82,Product 17,Beauty,2025-01-10,Customer 24,West,1042.96,Credit Card
+ORD024,PROD015,1,100.58,Product 15,Home,2025-01-10,Customer 24,West,1042.96,Credit Card
+ORD024,PROD012,1,162.74,Product 12,Home,2025-01-10,Customer 24,West,1042.96,Credit Card
+ORD025,PROD011,3,334.64,Product 11,Home,2024-12-28,Customer 1,East,1104.5,Credit Card
+ORD025,PROD015,1,100.58,Product 15,Home,2024-12-28,Customer 1,East,1104.5,Credit Card
+ORD026,PROD011,3,334.64,Product 11,Home,2025-02-06,Customer 44,West,1003.92,Bank Transfer
+ORD027,PROD011,1,334.64,Product 11,Home,2025-03-10,Customer 8,North,2309.08,Bank Transfer
+ORD027,PROD009,3,455.57,Product 9,Home,2025-03-10,Customer 8,North,2309.08,Bank Transfer
+ORD027,PROD002,1,159.26,Product 2,Clothing,2025-03-10,Customer 8,North,2309.08,Bank Transfer
+ORD027,PROD019,1,448.47,Product 19,Beauty,2025-03-10,Customer 8,North,2309.08,Bank Transfer
+ORD028,PROD008,3,26.85,Product 8,Electronics,2025-04-30,Customer 24,West,2624.54,PayPal
+ORD028,PROD012,1,162.74,Product 12,Home,2025-04-30,Customer 24,West,2624.54,PayPal
+ORD028,PROD016,2,485.1,Product 16,Clothing,2025-04-30,Customer 24,West,2624.54,PayPal
+ORD028,PROD018,3,470.35,Product 18,Electronics,2025-04-30,Customer 24,West,2624.54,PayPal
+ORD029,PROD003,1,57.86,Product 3,Home,2025-03-03,Customer 11,East,1740.53,Credit Card
+ORD029,PROD013,3,264.83,Product 13,Electronics,2025-03-03,Customer 11,East,1740.53,Credit Card
+ORD029,PROD002,3,159.26,Product 2,Clothing,2025-03-03,Customer 11,East,1740.53,Credit Card
+ORD029,PROD010,3,136.8,Product 10,Electronics,2025-03-03,Customer 11,East,1740.53,Credit Card
+ORD030,PROD004,3,345.27,Product 4,Beauty,2025-01-26,Customer 17,West,1591.59,Credit Card
+ORD030,PROD014,2,277.89,Product 14,Electronics,2025-01-26,Customer 17,West,1591.59,Credit Card
+ORD031,PROD016,3,485.1,Product 16,Clothing,2025-04-15,Customer 8,North,2965.87,Credit Card
+ORD031,PROD004,3,345.27,Product 4,Beauty,2025-04-15,Customer 8,North,2965.87,Credit Card
+ORD031,PROD010,2,136.8,Product 10,Electronics,2025-04-15,Customer 8,North,2965.87,Credit Card
+ORD031,PROD015,2,100.58,Product 15,Home,2025-04-15,Customer 8,North,2965.87,Credit Card
+ORD032,PROD015,1,100.58,Product 15,Home,2025-06-24,Customer 35,South,818.22,PayPal
+ORD032,PROD012,1,162.74,Product 12,Home,2025-06-24,Customer 35,South,818.22,PayPal
+ORD032,PROD006,1,69.8,Product 6,Beauty,2025-06-24,Customer 35,South,818.22,PayPal
+ORD032,PROD016,1,485.1,Product 16,Clothing,2025-06-24,Customer 35,South,818.22,PayPal
+ORD033,PROD013,1,264.83,Product 13,Electronics,2025-05-16,Customer 35,South,1711.04,PayPal
+ORD033,PROD010,3,136.8,Product 10,Electronics,2025-05-16,Customer 35,South,1711.04,PayPal
+ORD033,PROD004,3,345.27,Product 4,Beauty,2025-05-16,Customer 35,South,1711.04,PayPal
+ORD034,PROD005,3,225.67,Product 5,Home,2024-12-29,Customer 33,West,813.81,PayPal
+ORD034,PROD010,1,136.8,Product 10,Electronics,2024-12-29,Customer 33,West,813.81,PayPal
+ORD035,PROD013,1,264.83,Product 13,Electronics,2025-03-09,Customer 5,East,264.83,PayPal
+ORD036,PROD013,1,264.83,Product 13,Electronics,2025-03-30,Customer 42,East,264.83,PayPal
+ORD037,PROD008,1,26.85,Product 8,Electronics,2025-04-15,Customer 39,North,26.85,Bank Transfer
+ORD038,PROD012,1,162.74,Product 12,Home,2025-05-17,Customer 41,East,1842.79,Credit Card
+ORD038,PROD019,3,448.47,Product 19,Beauty,2025-05-17,Customer 41,East,1842.79,Credit Card
+ORD038,PROD011,1,334.64,Product 11,Home,2025-05-17,Customer 41,East,1842.79,Credit Card
+ORD039,PROD017,3,389.82,Product 17,Beauty,2025-05-01,Customer 28,South,1678.73,Credit Card
+ORD039,PROD008,2,26.85,Product 8,Electronics,2025-05-01,Customer 28,South,1678.73,Credit Card
+ORD039,PROD009,1,455.57,Product 9,Home,2025-05-01,Customer 28,South,1678.73,Credit Card
+ORD040,PROD008,3,26.85,Product 8,Electronics,2025-03-31,Customer 7,North,757.56,Credit Card
+ORD040,PROD005,3,225.67,Product 5,Home,2025-03-31,Customer 7,North,757.56,Credit Card
+ORD041,PROD003,1,57.86,Product 3,Home,2025-05-30,Customer 9,East,1029.13,Credit Card
+ORD041,PROD007,2,252.64,Product 7,Beauty,2025-05-30,Customer 9,East,1029.13,Credit Card
+ORD041,PROD015,2,100.58,Product 15,Home,2025-05-30,Customer 9,East,1029.13,Credit Card
+ORD041,PROD013,1,264.83,Product 13,Electronics,2025-05-30,Customer 9,East,1029.13,Credit Card
+ORD042,PROD001,1,406.11,Product 1,Home,2025-06-02,Customer 8,North,406.11,Credit Card
+ORD043,PROD007,2,252.64,Product 7,Beauty,2025-03-20,Customer 12,East,3327.32,Credit Card
+ORD043,PROD018,2,470.35,Product 18,Electronics,2025-03-20,Customer 12,East,3327.32,Credit Card
+ORD043,PROD016,2,485.1,Product 16,Clothing,2025-03-20,Customer 12,East,3327.32,Credit Card
+ORD043,PROD009,2,455.57,Product 9,Home,2025-03-20,Customer 12,East,3327.32,Credit Card
+ORD044,PROD012,3,162.74,Product 12,Home,2025-06-01,Customer 34,South,488.22,Credit Card
+ORD045,PROD012,1,162.74,Product 12,Home,2025-03-26,Customer 33,West,162.74,Credit Card
+ORD046,PROD018,3,470.35,Product 18,Electronics,2025-03-29,Customer 48,East,2215.18,Bank Transfer
+ORD046,PROD010,2,136.8,Product 10,Electronics,2025-03-29,Customer 48,East,2215.18,Bank Transfer
+ORD046,PROD007,1,252.64,Product 7,Beauty,2025-03-29,Customer 48,East,2215.18,Bank Transfer
+ORD046,PROD014,1,277.89,Product 14,Electronics,2025-03-29,Customer 48,East,2215.18,Bank Transfer
+ORD047,PROD020,1,302.97,Product 20,Clothing,2025-01-22,Customer 23,South,604.71,Credit Card
+ORD047,PROD015,3,100.58,Product 15,Home,2025-01-22,Customer 23,South,604.71,Credit Card
+ORD048,PROD016,1,485.1,Product 16,Clothing,2025-04-19,Customer 24,West,2422.17,Bank Transfer
+ORD048,PROD011,2,334.64,Product 11,Home,2025-04-19,Customer 24,West,2422.17,Bank Transfer
+ORD048,PROD009,1,455.57,Product 9,Home,2025-04-19,Customer 24,West,2422.17,Bank Transfer
+ORD048,PROD001,2,406.11,Product 1,Home,2025-04-19,Customer 24,West,2422.17,Bank Transfer
+ORD049,PROD012,1,162.74,Product 12,Home,2025-06-14,Customer 37,West,873.53,PayPal
+ORD049,PROD015,1,100.58,Product 15,Home,2025-06-14,Customer 37,West,873.53,PayPal
+ORD049,PROD013,2,264.83,Product 13,Electronics,2025-06-14,Customer 37,West,873.53,PayPal
+ORD049,PROD008,3,26.85,Product 8,Electronics,2025-06-14,Customer 37,West,873.53,PayPal
+ORD050,PROD007,1,252.64,Product 7,Beauty,2025-02-28,Customer 35,South,252.64,Credit Card
+ORD051,PROD005,1,225.67,Product 5,Home,2025-02-08,Customer 44,West,225.67,PayPal
+ORD052,PROD004,1,345.27,Product 4,Beauty,2025-05-25,Customer 40,East,850.55,PayPal
+ORD052,PROD007,2,252.64,Product 7,Beauty,2025-05-25,Customer 40,East,850.55,PayPal
+ORD053,PROD011,2,334.64,Product 11,Home,2025-03-21,Customer 22,North,1531.87,PayPal
+ORD053,PROD007,1,252.64,Product 7,Beauty,2025-03-21,Customer 22,North,1531.87,PayPal
+ORD053,PROD006,2,69.8,Product 6,Beauty,2025-03-21,Customer 22,North,1531.87,PayPal
+ORD053,PROD018,1,470.35,Product 18,Electronics,2025-03-21,Customer 22,North,1531.87,PayPal
+ORD054,PROD014,2,277.89,Product 14,Electronics,2025-06-05,Customer 27,South,692.58,Bank Transfer
+ORD054,PROD010,1,136.8,Product 10,Electronics,2025-06-05,Customer 27,South,692.58,Bank Transfer
+ORD055,PROD012,2,162.74,Product 12,Home,2025-02-04,Customer 35,South,1033.32,PayPal
+ORD055,PROD010,2,136.8,Product 10,Electronics,2025-02-04,Customer 35,South,1033.32,PayPal
+ORD055,PROD003,2,57.86,Product 3,Home,2025-02-04,Customer 35,South,1033.32,PayPal
+ORD055,PROD002,2,159.26,Product 2,Clothing,2025-02-04,Customer 35,South,1033.32,PayPal
+ORD056,PROD020,1,302.97,Product 20,Clothing,2025-04-11,Customer 1,East,1489.49,PayPal
+ORD056,PROD009,1,455.57,Product 9,Home,2025-04-11,Customer 1,East,1489.49,PayPal
+ORD056,PROD007,2,252.64,Product 7,Beauty,2025-04-11,Customer 1,East,1489.49,PayPal
+ORD056,PROD005,1,225.67,Product 5,Home,2025-04-11,Customer 1,East,1489.49,PayPal
+ORD057,PROD008,3,26.85,Product 8,Electronics,2025-01-16,Customer 35,South,80.55,PayPal
+ORD058,PROD007,3,252.64,Product 7,Beauty,2025-01-18,Customer 37,West,757.92,Credit Card
+ORD059,PROD008,1,26.85,Product 8,Electronics,2025-03-25,Customer 47,West,1637.09,Credit Card
+ORD059,PROD013,1,264.83,Product 13,Electronics,2025-03-25,Customer 47,West,1637.09,Credit Card
+ORD059,PROD019,3,448.47,Product 19,Beauty,2025-03-25,Customer 47,West,1637.09,Credit Card
+ORD060,PROD013,3,264.83,Product 13,Electronics,2025-01-29,Customer 14,East,2968.53,Bank Transfer
+ORD060,PROD018,3,470.35,Product 18,Electronics,2025-01-29,Customer 14,East,2968.53,Bank Transfer
+ORD060,PROD016,1,485.1,Product 16,Clothing,2025-01-29,Customer 14,East,2968.53,Bank Transfer
+ORD060,PROD014,1,277.89,Product 14,Electronics,2025-01-29,Customer 14,East,2968.53,Bank Transfer
+ORD061,PROD006,1,69.8,Product 6,Beauty,2025-05-07,Customer 3,North,69.8,Bank Transfer
+ORD062,PROD007,3,252.64,Product 7,Beauty,2025-06-08,Customer 1,East,757.92,Credit Card
+ORD063,PROD003,3,57.86,Product 3,Home,2025-06-14,Customer 5,East,173.58,Bank Transfer
+ORD064,PROD009,2,455.57,Product 9,Home,2025-01-07,Customer 26,South,1073.88,Credit Card
+ORD064,PROD012,1,162.74,Product 12,Home,2025-01-07,Customer 26,South,1073.88,Credit Card
+ORD065,PROD010,3,136.8,Product 10,Electronics,2025-04-28,Customer 14,East,1821.45,PayPal
+ORD065,PROD018,3,470.35,Product 18,Electronics,2025-04-28,Customer 14,East,1821.45,PayPal
+ORD066,PROD009,3,455.57,Product 9,Home,2025-04-12,Customer 39,North,1366.71,PayPal
+ORD067,PROD013,2,264.83,Product 13,Electronics,2025-06-05,Customer 27,South,529.66,Bank Transfer
+ORD068,PROD008,2,26.85,Product 8,Electronics,2025-04-27,Customer 9,East,1810.02,Credit Card
+ORD068,PROD004,1,345.27,Product 4,Beauty,2025-04-27,Customer 9,East,1810.02,Credit Card
+ORD068,PROD018,3,470.35,Product 18,Electronics,2025-04-27,Customer 9,East,1810.02,Credit Card
+ORD069,PROD006,1,69.8,Product 6,Beauty,2025-05-31,Customer 15,West,951.06,Credit Card
+ORD069,PROD012,2,162.74,Product 12,Home,2025-05-31,Customer 15,West,951.06,Credit Card
+ORD069,PROD014,2,277.89,Product 14,Electronics,2025-05-31,Customer 15,West,951.06,Credit Card
+ORD070,PROD003,3,57.86,Product 3,Home,2025-03-20,Customer 15,West,1177.5,Bank Transfer
+ORD070,PROD011,3,334.64,Product 11,Home,2025-03-20,Customer 15,West,1177.5,Bank Transfer
+ORD071,PROD014,2,277.89,Product 14,Electronics,2025-04-15,Customer 26,South,1536.72,Credit Card
+ORD071,PROD009,2,455.57,Product 9,Home,2025-04-15,Customer 26,South,1536.72,Credit Card
+ORD071,PROD006,1,69.8,Product 6,Beauty,2025-04-15,Customer 26,South,1536.72,Credit Card
+ORD072,PROD010,2,136.8,Product 10,Electronics,2025-03-01,Customer 42,East,273.6,PayPal
+ORD073,PROD010,1,136.8,Product 10,Electronics,2025-01-14,Customer 13,East,136.8,Bank Transfer
+ORD074,PROD004,3,345.27,Product 4,Beauty,2025-03-24,Customer 32,North,2006.01,Bank Transfer
+ORD074,PROD016,2,485.1,Product 16,Clothing,2025-03-24,Customer 32,North,2006.01,Bank Transfer
+ORD075,PROD015,2,100.58,Product 15,Home,2025-05-15,Customer 39,North,453.8,Credit Card
+ORD075,PROD007,1,252.64,Product 7,Beauty,2025-05-15,Customer 39,North,453.8,Credit Card
+ORD076,PROD006,2,69.8,Product 6,Beauty,2025-03-23,Customer 49,South,919.24,Bank Transfer
+ORD076,PROD017,2,389.82,Product 17,Beauty,2025-03-23,Customer 49,South,919.24,Bank Transfer
+ORD077,PROD003,2,57.86,Product 3,Home,2025-03-27,Customer 32,North,949.39,Credit Card
+ORD077,PROD014,3,277.89,Product 14,Electronics,2025-03-27,Customer 32,North,949.39,Credit Card
+ORD078,PROD016,3,485.1,Product 16,Clothing,2025-05-03,Customer 4,East,3046.89,Credit Card
+ORD078,PROD007,3,252.64,Product 7,Beauty,2025-05-03,Customer 4,East,3046.89,Credit Card
+ORD078,PROD014,3,277.89,Product 14,Electronics,2025-05-03,Customer 4,East,3046.89,Credit Card
+ORD079,PROD016,3,485.1,Product 16,Clothing,2025-01-05,Customer 30,West,1455.3,Credit Card
+ORD080,PROD006,3,69.8,Product 6,Beauty,2025-04-18,Customer 37,West,294.11,Credit Card
+ORD080,PROD003,1,57.86,Product 3,Home,2025-04-18,Customer 37,West,294.11,Credit Card
+ORD080,PROD008,1,26.85,Product 8,Electronics,2025-04-18,Customer 37,West,294.11,Credit Card
+ORD081,PROD013,1,264.83,Product 13,Electronics,2024-12-28,Customer 23,South,1817.8,Credit Card
+ORD081,PROD011,1,334.64,Product 11,Home,2024-12-28,Customer 23,South,1817.8,Credit Card
+ORD081,PROD001,3,406.11,Product 1,Home,2024-12-28,Customer 23,South,1817.8,Credit Card
+ORD082,PROD006,2,69.8,Product 6,Beauty,2025-01-02,Customer 39,North,644.88,Bank Transfer
+ORD082,PROD007,2,252.64,Product 7,Beauty,2025-01-02,Customer 39,North,644.88,Bank Transfer
+ORD083,PROD016,3,485.1,Product 16,Clothing,2025-01-11,Customer 45,West,1780.78,PayPal
+ORD083,PROD012,2,162.74,Product 12,Home,2025-01-11,Customer 45,West,1780.78,PayPal
+ORD084,PROD010,3,136.8,Product 10,Electronics,2025-06-07,Customer 15,West,888.18,PayPal
+ORD084,PROD002,3,159.26,Product 2,Clothing,2025-06-07,Customer 15,West,888.18,PayPal
+ORD085,PROD010,3,136.8,Product 10,Electronics,2025-01-21,Customer 43,South,1706.88,Bank Transfer
+ORD085,PROD020,2,302.97,Product 20,Clothing,2025-01-21,Customer 43,South,1706.88,Bank Transfer
+ORD085,PROD004,2,345.27,Product 4,Beauty,2025-01-21,Customer 43,South,1706.88,Bank Transfer
+ORD086,PROD008,1,26.85,Product 8,Electronics,2025-01-14,Customer 29,West,26.85,Bank Transfer
+ORD087,PROD007,2,252.64,Product 7,Beauty,2025-05-13,Customer 36,North,2031.66,PayPal
+ORD087,PROD016,1,485.1,Product 16,Clothing,2025-05-13,Customer 36,North,2031.66,PayPal
+ORD087,PROD015,1,100.58,Product 15,Home,2025-05-13,Customer 36,North,2031.66,PayPal
+ORD087,PROD018,2,470.35,Product 18,Electronics,2025-05-13,Customer 36,North,2031.66,PayPal
+ORD088,PROD013,3,264.83,Product 13,Electronics,2025-02-09,Customer 13,East,910.21,PayPal
+ORD088,PROD003,2,57.86,Product 3,Home,2025-02-09,Customer 13,East,910.21,PayPal
+ORD089,PROD011,3,334.64,Product 11,Home,2025-04-24,Customer 32,North,1455.26,PayPal
+ORD089,PROD005,2,225.67,Product 5,Home,2025-04-24,Customer 32,North,1455.26,PayPal
+ORD090,PROD014,3,277.89,Product 14,Electronics,2025-05-15,Customer 7,North,1566.03,PayPal
+ORD090,PROD001,1,406.11,Product 1,Home,2025-05-15,Customer 7,North,1566.03,PayPal
+ORD090,PROD015,1,100.58,Product 15,Home,2025-05-15,Customer 7,North,1566.03,PayPal
+ORD090,PROD005,1,225.67,Product 5,Home,2025-05-15,Customer 7,North,1566.03,PayPal
+ORD091,PROD011,3,334.64,Product 11,Home,2025-02-27,Customer 22,North,1268.75,PayPal
+ORD091,PROD013,1,264.83,Product 13,Electronics,2025-02-27,Customer 22,North,1268.75,PayPal
+ORD092,PROD016,3,485.1,Product 16,Clothing,2025-03-20,Customer 28,South,2349.63,Credit Card
+ORD092,PROD012,3,162.74,Product 12,Home,2025-03-20,Customer 28,South,2349.63,Credit Card
+ORD092,PROD001,1,406.11,Product 1,Home,2025-03-20,Customer 28,South,2349.63,Credit Card
+ORD093,PROD018,1,470.35,Product 18,Electronics,2025-04-17,Customer 2,West,1722.98,Bank Transfer
+ORD093,PROD013,1,264.83,Product 13,Electronics,2025-04-17,Customer 2,West,1722.98,Bank Transfer
+ORD093,PROD011,2,334.64,Product 11,Home,2025-04-17,Customer 2,West,1722.98,Bank Transfer
+ORD093,PROD002,2,159.26,Product 2,Clothing,2025-04-17,Customer 2,West,1722.98,Bank Transfer
+ORD094,PROD010,2,136.8,Product 10,Electronics,2025-01-13,Customer 42,East,273.6,Credit Card
+ORD095,PROD013,3,264.83,Product 13,Electronics,2024-12-31,Customer 45,West,1279.59,PayPal
+ORD095,PROD016,1,485.1,Product 16,Clothing,2024-12-31,Customer 45,West,1279.59,PayPal
+ORD096,PROD010,2,136.8,Product 10,Electronics,2025-02-03,Customer 6,West,273.6,PayPal
+ORD097,PROD016,3,485.1,Product 16,Clothing,2025-04-30,Customer 28,South,2820.95,PayPal
+ORD097,PROD007,3,252.64,Product 7,Beauty,2025-04-30,Customer 28,South,2820.95,PayPal
+ORD097,PROD002,1,159.26,Product 2,Clothing,2025-04-30,Customer 28,South,2820.95,PayPal
+ORD097,PROD019,1,448.47,Product 19,Beauty,2025-04-30,Customer 28,South,2820.95,PayPal
+ORD098,PROD009,1,455.57,Product 9,Home,2025-01-01,Customer 28,South,960.85,Credit Card
+ORD098,PROD007,2,252.64,Product 7,Beauty,2025-01-01,Customer 28,South,960.85,Credit Card
+ORD099,PROD008,1,26.85,Product 8,Electronics,2025-04-03,Customer 44,West,26.85,Credit Card
+ORD100,PROD017,2,389.82,Product 17,Beauty,2025-06-11,Customer 44,West,1747.71,PayPal
+ORD100,PROD013,3,264.83,Product 13,Electronics,2025-06-11,Customer 44,West,1747.71,PayPal
+ORD100,PROD003,3,57.86,Product 3,Home,2025-06-11,Customer 44,West,1747.71,PayPal
