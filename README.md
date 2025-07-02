@@ -66,7 +66,7 @@ The dataset includes:
 
 
 📸 Dashboard Preview
-![Power BI Dashboard Preview](powerbi/ecommerce_dashboard.pbix)
+![Power BI Dashboard Preview](powerbi/ecommerce_dashboard.pbix.png)
 
 
 
